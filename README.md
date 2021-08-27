@@ -1,6 +1,7 @@
-# Parallel-Port-Control
+# Parallel Port Control
 
-A simple User Control developed in C#.Net used to control the Parallel Port. The following tasks can be performed using it:-
+A simple User Control developed in C#.Net used to control the Parallel Port.  
+The following tasks can be performed using it:-
 
 Send data to Data Pins.  
 Receive data from Data Pins.  
